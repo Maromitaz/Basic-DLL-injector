@@ -1,5 +1,5 @@
 # Basic DLL injector
-Hello, this is my attemp on making a basic DLL injector without a fancy GUI, just a console.
+Hello, this is my attempt on making a basic DLL injector without a fancy GUI, just a console.
 
 ## How to compile
 The compilation must be in Release x86, didn't test on x64.
